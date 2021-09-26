@@ -1,16 +1,12 @@
-### Hi there 👋
+Hi there, 👋
 
-Wow! I have the whole `.md` file to talk about myself. Where do I start?
+I'm Kim. I'm working on the Data Platform at GitHub.
 
-Well, anything I write here is a self ad about myself. So here is what I would like to share:
+Ask me about Airflow, chatops, and infrastructure as code.
 
-#### How I get into programming:
+When I'm not working, I enjoy a nice walk 🚶‍♀️ or biking 🚴‍♀️ with friends, gardening 🏡 with my chicken 🐔, and crafting ✂️ with my cats 🐈.
 
-I used to be a tomboy in middle school. At the end of 6th grade, the group of boys that I was fighting with received some rewards for Pascal competitions. Couldn't beat them up physically, I signed up to learn Pascal and was determine to beat them in competitions. After all the competitions we went through together, those boys became my closest friends. And I am forever grateful for the career that they introduced me to.
-
-I think I shared too much about myself already.
-
-Have a nice day!
+Have a nice day! 🌻
 
 <!--
 **kimyen/kimyen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
