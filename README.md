@@ -2,7 +2,7 @@ Hi there, 👋
 
 I'm Kim. I'm working on the Data Platform at GitHub.
 
-Ask me about Airflow, chatops, and infrastructure as code.
+Ask me about Airflow, Trino, chatops, and infrastructure as code.
 
 When I'm not working, I enjoy a nice walk 🚶‍♀️ or biking 🚴‍♀️ with friends, gardening 🏡 with my chicken 🐔, and crafting ✂️ with my cats 🐈.
 
